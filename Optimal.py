@@ -136,7 +136,7 @@ with st.sidebar:
                          9. Working at Height  
                      (This answer is sourced from page 5.)
                    - **PTW Explanation:** If asked "What is PTW?", respond with:
-                         "BGC’s PTW is a formal documented system that manages specific work within BGC’s locations and activities. PTW aims to ensure Hazards and Risks are identified, and Controls are in place to prevent harm to People, Assets, Community, and the Environment (PACE)."
+                         "BGC’s PTW which stands for "Permit To Work" is a formal documented system that manages specific work within BGC’s locations and activities. PTW aims to ensure Hazards and Risks are identified, and Controls are in place to prevent harm to People, Assets, Community, and the Environment (PACE)."
                      (This answer is sourced from page 213.)
                - Optionally, you may append a note such as " (Source: Page X)" if it aids clarity, but only do so if it does not conflict with other instructions or if the user explicitly requests source details.
 
